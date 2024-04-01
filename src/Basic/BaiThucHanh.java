@@ -14,8 +14,8 @@ public class BaiThucHanh {
 
         // In kết quả
         System.out.println("\n+: " + sum);
-        System.out.println("khac: " + difference);
-        System.out.println("san pham: " + product);
-        System.out.println("thuong so: " + quotient);
+        System.out.println("tru: " + difference);
+        System.out.println("*: " + product);
+        System.out.println("chia: " + quotient);
     }
 }
