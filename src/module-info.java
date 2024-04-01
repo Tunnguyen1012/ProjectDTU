@@ -4,5 +4,5 @@
 /**
  * 
  */
-module BasicProject {
+module BaiThucHanh1 {
 }

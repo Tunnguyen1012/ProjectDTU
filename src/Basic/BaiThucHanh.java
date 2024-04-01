@@ -1,5 +1,4 @@
 package Basic;
-
 public class BaiThucHanh {
 	public static void main(String[] args) {
         // Khai báo và khởi tạo hai số
@@ -13,10 +12,9 @@ public class BaiThucHanh {
         double quotient = number1 / number2;
 
         // In kết quả
-        ///12312412312312312
-        System.out.println("\n Sum: " + sum);
-        System.out.println("\n Difference: " + difference);
-        System.out.println("\n Product: " + product);
-        System.out.println("\n Quotient: " + quotient);
+        System.out.println("\n +: " + sum);
+        System.out.println("\n -: " + difference);
+        System.out.println("\n *: " + product);
+        System.out.println("\n /: " + quotient);
     }
 }
