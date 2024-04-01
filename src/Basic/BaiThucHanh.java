@@ -13,7 +13,7 @@ public class BaiThucHanh {
         double quotient = number1 / number2;
 
         // In kết quả
-        ///123124123
+        ///12312412312312312
         System.out.println("\n Sum: " + sum);
         System.out.println("\n Difference: " + difference);
         System.out.println("\n Product: " + product);
