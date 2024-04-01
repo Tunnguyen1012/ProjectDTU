@@ -13,9 +13,9 @@ public class BaiThucHanh {
         double quotient = number1 / number2;
 
         // In kết quả
-        System.out.println("\nSum: " + sum);
-        System.out.println("Difference: " + difference);
-        System.out.println("Product: " + product);
-        System.out.println("Quotient: " + quotient);
+        System.out.println("\n+: " + sum);
+        System.out.println("khac: " + difference);
+        System.out.println("san pham: " + product);
+        System.out.println("thuong so: " + quotient);
     }
 }
